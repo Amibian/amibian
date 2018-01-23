@@ -1,0 +1,6 @@
+linux-dtb-next-rockchip_5.37_armhf.deb filter=lfs diff=lfs merge=lfs -text
+linux-headers-next-rockchip_5.37_armhf.deb filter=lfs diff=lfs merge=lfs -text
+linux-image-next-rockchip_5.37_armhf.deb filter=lfs diff=lfs merge=lfs -text
+linux-source-next-rockchip_5.37_all.deb filter=lfs diff=lfs merge=lfs -text
+linux-u-boot-next-tinkerboard_5.37_armhf.deb filter=lfs diff=lfs merge=lfs -text
+linux-stretch-root-next-tinkerboard_5.37_armhf.deb filter=lfs diff=lfs merge=lfs -text
